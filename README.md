@@ -9,7 +9,7 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white&style=for-the-badge&link=https://reactjs.org)](https://reactjs.org/)
 
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <!--
 **phj2309/phj2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
