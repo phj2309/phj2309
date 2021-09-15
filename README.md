@@ -10,11 +10,15 @@
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-424242?&logo=javascript&logoColor=F7DF1E&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white&style=for-the-badge&link=https://reactjs.org)](https://reactjs.org/)
-[![ReactNative Badge](https://img.shields.io/badge/-React_Native-424242?&logo=react&logoColor=61DAFB&style=for-the-badge&link=https://reactnative.dev)](https://reactnative.dev/)
-[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?&logo=redux&logoColor=white&style=for-the-badge&link=https://redux.js.org)](https://redux.js.org)
+[![React Badge](https://img.shields.io/badge/-REACT-61DAFB?&logo=react&logoColor=white&style=for-the-badge&link=https://reactjs.org)](https://reactjs.org/)
+[![ReactNative Badge](https://img.shields.io/badge/-REACT_NATIVE-424242?&logo=react&logoColor=61DAFB&style=for-the-badge&link=https://reactnative.dev)](https://reactnative.dev/)
+[![Redux Badge](https://img.shields.io/badge/-REDUX-764ABC?&logo=redux&logoColor=white&style=for-the-badge&link=https://redux.js.org)](https://redux.js.org)
 
-[![Styled-components Badge](https://img.shields.io/badge/-Styled_Components-DB7093?&logo=styled-components&logoColor=white&style=for-the-badge&link=https://styled-components.com)](https://styled-components.com)
+[![Styled-components Badge](https://img.shields.io/badge/-STYLED_COMPONENTS-DB7093?&logo=styled-components&logoColor=white&style=for-the-badge&link=https://styled-components.com)](https://styled-components.com)
+
+
+[![Github Badge](https://img.shields.io/badge/-GITHUB-181717?&logo=github&logoColor=white&style=for-the-badge&link=https://github.com/phj2309)](https://github.com/phj2309)
+[![Gitlab Badge](https://img.shields.io/badge/-GITLAB-FCA121?&logo=gitlab&logoColor=white&style=for-the-badge&link=https://about.gitlab.com)](https://about.gitlab.com)
 
 
 
