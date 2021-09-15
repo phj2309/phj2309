@@ -7,7 +7,7 @@
 
 # Skills
 <img alt="React" src ="https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-<img alt="React" src ="http://img.shields.io/badge/language-React-blue&logo=React&logoColor=#61DAFB&link=https://img.shields.io/badge/-React-%2361DAFB"/>
+<img alt="React" src ="http://img.shields.io/badge/React-blue&logo=React&logoColor=#61DAFB&link=https://img.shields.io/badge/-React-%2361DAFB"/>
 
 <!--
 **phj2309/phj2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
