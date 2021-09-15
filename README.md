@@ -7,7 +7,8 @@
 
 # Skills
 
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&link=https://reactjs.org)](https://reactjs.org/)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white&style=for-the-badge&link=https://reactjs.org)](https://reactjs.org/)
+<!-- [![React Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://reactjs.org)](https://reactjs.org/) -->
 
 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
