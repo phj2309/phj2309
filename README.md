@@ -5,6 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phj2309&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+# Skills
+<img alt="React" src ="https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 
 <!--
 **phj2309/phj2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
