@@ -6,14 +6,11 @@
 
 
 # Skills
-<img alt="React" src ="https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-<img alt="React" src ="http://img.shields.io/badge/React-blue&logo=React&logoColor=61DAFB&link=https://img.shields.io/badge/-React-%2361DAFB"/>
 
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&link=https://reactjs.org)](https://reactjs.org/)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&link=https://reactjs.org)](https://reactjs.org/)
 
-- 📺  **Fomagran's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)](https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)   
-- 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&link=https://reactjs.org/)
+
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <!--
 **phj2309/phj2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
