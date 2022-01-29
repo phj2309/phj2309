@@ -8,6 +8,7 @@
 # Skills
 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-424242?&logo=javascript&logoColor=F7DF1E&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript Badge](https://img.shields.io/badge/JavaScript-424242?&logo=javascript&logoColor=F7DF1E&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 [![React Badge](https://img.shields.io/badge/-REACT-61DAFB?&logo=react&logoColor=white&style=for-the-badge&link=https://reactjs.org)](https://reactjs.org/)
