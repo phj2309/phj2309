@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi there 👋%20render&fontSize=90)
+
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj2309&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,7 +24,7 @@
 [![Gitlab Badge](https://img.shields.io/badge/-GITLAB-FCA121?&logo=gitlab&logoColor=white&style=for-the-badge&link=https://about.gitlab.com)](https://about.gitlab.com)
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
