@@ -25,7 +25,7 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=footer&animation=fadeIn)
 
 
 
