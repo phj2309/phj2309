@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi&fontSize=90&animation=fadeIn)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj2309&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj2309&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phj2309&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phj2309&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 # Skills
