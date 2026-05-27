@@ -26,8 +26,4 @@
 </p>
 
 <br/>
-
-<p align="center">— ✦ —</p>
-
-<br/>
 <br/>
