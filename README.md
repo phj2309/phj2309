@@ -1,43 +1,56 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Hi%20there%20👋&fontSize=70&fontAlignY=38&desc=I'm%20Hyunju%20Park&descSize=22&descAlignY=60&animation=fadeIn)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phj2309&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phj2309&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+### 🌱 Frontend Developer who loves clean code & beautiful UI
 
+</div>
 
-# Skills
+<br/>
 
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-424242?&logo=javascript&logoColor=F7DF1E&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-424242?&logo=typescript&logoColor=3178C6&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/TypeScript/)](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
+## 🛠 Tech Stack
 
+<div align="center">
 
-[![React Badge](https://img.shields.io/badge/-REACT-61DAFB?&logo=react&logoColor=white&style=for-the-badge&link=https://reactjs.org)](https://reactjs.org/)
-[![ReactNative Badge](https://img.shields.io/badge/-REACT_NATIVE-424242?&logo=react&logoColor=61DAFB&style=for-the-badge&link=https://reactnative.dev)](https://reactnative.dev/)
-[![Redux Badge](https://img.shields.io/badge/-REDUX-764ABC?&logo=redux&logoColor=white&style=for-the-badge&link=https://redux.js.org)](https://redux.js.org)
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-[![Styled-components Badge](https://img.shields.io/badge/-STYLED_COMPONENTS-DB7093?&logo=styled-components&logoColor=white&style=for-the-badge&link=https://styled-components.com)](https://styled-components.com)
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-[![Github Badge](https://img.shields.io/badge/-GITHUB-181717?&logo=github&logoColor=white&style=for-the-badge&link=https://github.com/phj2309)](https://github.com/phj2309)
-[![Gitlab Badge](https://img.shields.io/badge/-GITLAB-FCA121?&logo=gitlab&logoColor=white&style=for-the-badge&link=https://about.gitlab.com)](https://about.gitlab.com)
+</div>
 
+<br/>
 
+## 📊 GitHub Stats
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=footer&animation=fadeIn)
+<div align="center">
 
+<a href="https://github.com/phj2309">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phj2309&show_icons=true&hide=commits&theme=tokyonight&include_all_commits=false&count_private=true&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phj2309&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a>
 
+</div>
 
-<!--
-**phj2309/phj2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phj2309)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=footer&animation=fadeIn)
